@@ -1,7 +1,5 @@
 console.log(`Trabalhando com listas`);
 
-let new = 2;
-
 const listaDeDestinos = new Array(
     `Salvador`,
     `São Paulo`,
